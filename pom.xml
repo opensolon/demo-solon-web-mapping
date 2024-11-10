@@ -7,7 +7,7 @@
     <parent>
         <groupId>org.noear</groupId>
         <artifactId>solon-parent</artifactId>
-        <version>3.0.3-RC</version>
+        <version>3.0.3</version>
         <relativePath />
     </parent>
 
@@ -32,7 +32,7 @@
         <!-- Http 启动器 -->
         <dependency>
             <groupId>org.noear</groupId>
-            <artifactId>solon-boot-jdkhttp</artifactId>
+            <artifactId>solon-boot-smarthttp</artifactId>
         </dependency>
 
         <!-- Json序列化支持插件 -->
